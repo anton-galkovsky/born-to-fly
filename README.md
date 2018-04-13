@@ -2,4 +2,4 @@ Spring 2018
 
 # Born To Fly
 
-Игра написана на хакатоне СПбГУ, тема - "не баг, а фича". Имеет в основе идею обычного раннера, но также обладает несколькими интересными багами, делающими игровой процесс необычным
+This game was created at SPBU Game Jam 2018, which theme was "Not a bug, but a feature".  Based on standard runner, it has some interesting bugs that make it quite interesting
